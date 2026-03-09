@@ -1,0 +1,186 @@
+RandomID,Respondent ID,Progress,Duration (in seconds),Q1_Consent,Q2_PurchaseRecent,Q3_DecisionRole,Q4_PurchaseFreq,Q5_UsualChannel,Q5_UsualChannel_5_TEXT,Q6_BrandsBought,Q6_BrandsBought_9_TEXT,Q7_BrandMostOften,Q8_AttrImportance_1,Q8_AttrImportance_2,Q8_AttrImportance_3,Q8_AttrImportance_4,Q8_AttrImportance_5,Q8_AttrImportance_6,Q8_AttrImportance_7,Q8h_QualityCheck_Trap1,Q9_Tradeoff,Q10_ActiveSeeking,Q11_Appeal,Q12_PurchaseIntent,Q13_Replacement,Q13A_WhatReplaced,Q14_InterestComparison,Q15_AttentionCheck_1,Q16_PurchaseLocation,Q17a_Price399,Q17b_Price499,Q17c_Price599,Q17d_Price699,Q17e_Price799,Q18_PriceTooExpensive,Q19_ClubStore4Pack,Q20_OnlineDelivery,Q21_DietFocus,Q22_HouseholdType,Q23_Age,Q24_Income,ClaimCell,ConceptLabel
+RandomID,Respondent ID,Progress,Duration (in seconds),You are invited to participate in a short survey about ice cream purchasing. Your responses are anonymous and for academic research only. You may stop at any time.,Have you purchased ice cream in the past 6 months?,"When ice cream is purchased for your household, what is your role in deciding which ice cream to buy?",How often do you buy ice cream?,Where do you usually buy ice cream? - Selected Choice,Where do you usually buy ice cream? - Other (please specify) - Text,Which brands have you purchased in the last 3 months? (Select all that apply.) - Selected Choice,Which brands have you purchased in the last 3 months? (Select all that apply.) - Other (please specify) - Text,Which brand do you purchase most often?,"When choosing ice cream, how important is each of the following? - Taste","When choosing ice cream, how important is each of the following? - Price","When choosing ice cream, how important is each of the following? - Brand reputation","When choosing ice cream, how important is each of the following? - Low/zero sugar","When choosing ice cream, how important is each of the following? - High protein","When choosing ice cream, how important is each of the following? - Short/clean ingredient list","When choosing ice cream, how important is each of the following? - Low calorie content","To ensure data quality, please select ""Not at all important"" for this item.","If you had to choose only one, which would be more important in ice cream?",Which statement best describes you?,"Thinking about the Breyers Better For You ice cream [Field-ConceptLabel]:
+ 
+ How appealing is this product concept?","Thinking about the Breyers Better For You ice cream [Field-ConceptLabel]:
+ 
+ If this product were available where you shop, how likely would you be to buy it?","Thinking about the Breyers Better For You ice cream [Field-ConceptLabel]:
+ 
+ If you purchased this product, would it:","Thinking about the Breyers Better For You ice cream [Field-ConceptLabel]:
+ 
+ If it replaced your usual ice cream at least sometimes, what would it most likely replace?","Thinking about the Breyers Better For You ice cream [Field-ConceptLabel]:
+ 
+ Compared to regular ice cream, how interested are you in this product?","Thinking about the Breyers Better For You ice cream [Field-ConceptLabel]:
+ 
+ To confirm you are paying attention, please select ""Somewhat agree"" below.","Thinking about the Breyers Better For You ice cream [Field-ConceptLabel]:
+ 
+ Where would you most likely purchase this type of product?",How likely would you be to buy it at $3.99?,How likely would you be to buy it at $4.99?,How likely would you be to buy it at $5.99?,How likely would you be to buy it at $6.99?,How likely would you be to buy it at $7.99?,"Setting aside the prices you were just asked about, at what price point would a 1-pint container of this product feel too expensive to purchase?
+ $__________ (e.g., 7.99)","If this product were sold as a 4-pack at a club store (e.g., Costco or Sam's), would you consider buying it?",How likely would you be to purchase this product through online grocery delivery?,Which of the following best describes you right now?,Which best describes your household?,What is your age?,What is your approximate annual household income?,ClaimCell,ConceptLabel
+55503,R001,100,572,1,1,1,1,2,,"1,2,3,5",,2,1,2,3,4,5,4,3,1,1,3,4,2,2,1,3,4,2,2,3,3,1,1,2,2,2,1,3,2,2,3,with higher protein and low or zero added sugar
+87220,R002,100,555,1,1,1,1,2,,"3,4,5,7",,6,1,3,3,3,3,3,3,1,1,2,1,2,1,4,2,4,2,1,2,1,1,1,1,1,3,2,1,3,1,2,with low or zero added sugar
+81350,R005,100,309,1,1,1,2,1,,"2,3,9","Straus Family Creamery, Van Leeuwen",3,5,3,3,1,1,5,1,1,3,4,3,2,3,,1,4,1,4,3,1,2,1,3.99,1,3,1,1,2,5,3,with higher protein and low or zero added sugar
+17899,R006,100,279,1,1,1,3,1,,"2,3",,2,5,4,3,3,4,4,5,1,3,2,5,5,2,2,5,4,1,5,5,5,4,4,7,5,3,3,4,3,4,1,with higher protein
+53495,R007,100,278,1,1,1,1,1,,"3,8,9",VAN LEEUWEN,3,5,2,3,2,2,5,3,1,3,4,2,1,2,3,1,4,1,2,2,2,2,1,7.99,1,1,1,3,2,6,2,with low or zero added sugar
+64798,R008,100,1019,1,1,2,3,2,,"7,8,9","Intl. stuff - Samanco, Michoacana, etc.",9,4,4,1,2,1,4,3,1,4,4,3,3,4,,3,4,1,4,3,2,1,1,5.99,1,1,1,2,2,4,2,with low or zero added sugar
+34835,R009,100,313,1,1,1,1,1,,"1,7,8",,1,4,2,1,1,1,1,1,1,3,4,3,3,3,,1,4,1,1,1,1,1,1,4.99,2,1,4,5,1,1,3,with higher protein and low or zero added sugar
+43750,R010,100,250,1,1,2,4,1,,2,,2,5,3,4,1,1,3,2,1,3,4,1,1,4,,1,4,4,3,2,3,2,2,9.99,2,2,4,2,2,5,3,with higher protein and low or zero added sugar
+57581,R013,100,280,1,1,1,4,1,,4,,4,4,2,3,4,3,4,4,1,2,1,3,4,3,,2,4,1,2,3,4,4,4,10,1,1,1,5,3,6,2,with low or zero added sugar
+11619,R014,100,307,1,1,1,4,1,,"2,3,9",telenti,3,5,4,3,1,1,1,1,1,3,4,4,4,1,1,3,4,1,4,3,3,2,1,5,3,3,1,3,3,6,2,with low or zero added sugar
+42203,R015,100,333,1,1,1,3,1,,"2,3,9","Talenti, Van Leeuwen",3,5,2,1,2,1,3,3,1,3,1,1,2,3,,1,4,1,1,1,1,1,1,8,1,1,1,2,3,6,1,with higher protein
+21521,R016,100,227,1,1,1,3,1,,"2,3",,3,4,2,3,1,1,1,1,1,3,4,1,3,3,,2,4,1,2,3,4,4,4,10,2,2,4,6,2,5,1,with higher protein
+7428,R018,100,208,1,1,1,2,1,,3,,3,5,2,4,1,1,2,1,1,3,4,2,2,4,,1,4,1,3,3,4,2,1,7.99,1,1,4,2,2,5,1,with higher protein
+1325,R019,100,539,1,1,1,3,1,,"3,4,8",,3,4,3,2,3,1,2,4,1,3,4,3,3,2,6,3,4,1,5,4,4,3,3,7.99,3,1,4,4,3,5,1,with higher protein
+3504,R021,100,665,1,1,1,3,1,,2,,2,3,3,3,2,4,4,3,1,1,2,3,4,3,,4,4,1,5,5,3,3,1,7.99,2,1,2,5,2,4,2,with low or zero added sugar
+7624,R023,100,199,1,1,1,2,1,,7,,7,5,4,3,2,2,1,1,1,3,4,4,3,2,2,2,4,1,5,5,4,3,1,7.99,4,1,2,1,2,2,2,with low or zero added sugar
+4921,R024,100,270,1,1,1,4,1,,2,,2,4,3,5,1,1,1,1,1,3,4,2,3,4,,3,4,1,4,4,3,4,3,7.99,3,3,4,1,2,3,2,with low or zero added sugar
+1525,R025,100,155,1,1,1,3,3,,7,,9,3,3,1,1,1,1,1,1,3,4,3,3,3,,3,4,1,4,4,3,2,1,3.98,4,1,4,1,3,3,2,with low or zero added sugar
+6289,R026,100,387,1,1,2,3,1,,"2,3",,3,5,3,1,1,1,1,1,1,3,4,1,2,4,,1,4,1,3,3,3,3,1,10,2,1,4,2,1,5,2,with low or zero added sugar
+6975,R027,100,191,1,1,2,3,1,,"2,3,7",,2,5,5,4,4,3,3,4,1,2,1,3,4,2,2,4,4,1,4,4,3,3,2,6,2,4,3,3,3,5,2,with low or zero added sugar
+8816,R029,100,305,1,1,2,3,1,,4,,3,5,2,3,1,1,1,3,1,2,4,4,4,3,,3,4,1,5,4,3,3,2,7,1,4,3,2,2,4,2,with low or zero added sugar
+6379,R030,100,229,1,1,2,4,1,,7,,7,5,4,2,2,2,5,1,1,3,4,1,1,3,,1,4,1,1,1,1,1,1,1,1,1,4,1,2,5,1,with higher protein
+1017,R032,100,310,1,1,1,4,1,,9,Ice cream without sugar,3,4,2,4,3,2,3,2,1,3,4,4,3,3,,3,4,1,3,3,3,3,3,10,2,2,1,1,3,6,2,with low or zero added sugar
+3184,R033,100,235,1,1,2,3,1,,"7,8",,8,5,2,2,5,3,5,3,1,3,4,3,4,2,4,4,4,1,5,5,5,5,4,10,4,1,3,2,2,5,3,with higher protein and low or zero added sugar
+9784,R036,100,204,1,1,1,3,2,,"2,3",,3,2,4,5,3,3,3,3,1,3,2,2,2,2,3,2,4,1,4,4,3,2,2,4.99,1,1,3,3,3,6,1,with higher protein
+1319,R037,100,552,1,1,2,2,2,,"8,9",Melona,7,5,4,3,1,1,1,2,1,3,4,2,3,2,1,4,4,1,5,5,4,3,3,7.99,3,1,1,3,2,5,2,with low or zero added sugar
+9660,R038,100,260,1,1,2,3,1,,8,,8,5,1,4,1,1,1,1,1,3,4,2,3,4,,5,4,1,1,5,3,5,4,7.99,3,1,4,3,3,6,2,with low or zero added sugar
+2798,R039,100,580,1,1,2,3,1,,3,,3,4,2,3,2,2,3,3,1,3,4,3,4,2,3,4,4,1,5,4,4,3,3,7.99,2,2,3,3,3,6,3,with higher protein and low or zero added sugar
+4963,R040,100,546,1,1,1,4,1,,"3,8",,8,5,2,1,3,2,3,2,1,3,4,2,4,3,,3,4,1,3,3,2,2,2,8.99,1,3,1,3,3,6,1,with higher protein
+1618,R041,100,264,1,1,1,4,1,,3,,3,5,2,3,1,1,1,1,1,3,4,1,3,4,,3,4,1,3,3,3,3,3,10,1,1,4,1,2,6,2,with low or zero added sugar
+1439,R042,100,216,1,1,2,3,1,,"7,9",talenti,7,4,1,1,4,4,1,4,1,1,3,3,3,3,,3,4,1,3,3,3,3,3,10,2,2,3,2,1,6,1,with higher protein
+4120,R047,100,232,1,1,2,4,1,,9,Van leeuwens,9,4,3,3,1,1,4,1,1,3,4,2,1,4,,1,4,4,1,2,3,3,2,8,1,1,3,2,2,6,1,with higher protein
+2292,R048,100,174,1,1,1,3,1,,3,,3,5,3,4,3,3,3,2,1,2,3,4,4,3,,3,4,1,5,4,4,4,3,7.99,2,2,3,1,2,6,2,with low or zero added sugar
+5648,R049,100,264,1,1,1,3,1,,"1,8",,1,5,2,2,1,1,3,1,1,3,4,3,4,3,,4,4,1,4,2,1,2,1,6.99,3,2,3,5,2,6,1,with higher protein
+5469,R050,100,214,1,1,2,3,5,"Fast food (Culver‚Äôs, DQ etc.)","8,9",Fast food,9,4,2,3,1,1,1,1,1,3,4,5,3,4,,4,4,1,4,4,3,2,1,4.99,1,1,3,2,2,3,2,with low or zero added sugar
+1274,R051,100,220,1,1,1,4,1,,3,,3,5,2,4,1,1,1,1,1,3,4,2,2,4,,2,4,1,4,4,4,4,2,7.99,1,3,4,5,2,5,3,with higher protein and low or zero added sugar
+5071,R052,100,177,1,1,1,3,1,,"1,2,7,8",,8,4,3,3,1,1,1,1,1,3,4,3,3,2,2,3,4,1,5,5,5,3,3,6.99,3,2,4,2,2,2,1,with higher protein
+5274,R053,100,5241,1,1,1,4,1,,9,Yasso,4,5,3,4,2,2,3,2,1,1,3,3,3,2,5,4,4,1,5,5,4,1,1,6.99,3,2,2,1,2,7,2,with low or zero added sugar
+1383,R054,100,329,1,1,1,4,1,,"2,3,9",Local shop that makes it in house,2,5,1,2,1,1,1,1,1,3,4,4,5,3,,4,4,1,5,4,3,3,2,6.49,3,1,3,1,2,7,1,with higher protein
+9412,R055,100,464,1,1,1,3,1,,9,Reeces,7,3,5,3,1,2,2,1,1,4,4,5,3,2,2,5,4,1,5,5,5,4,4,8.99,2,2,3,1,2,2,2,with low or zero added sugar
+7732,R056,100,146,1,1,1,2,1,,"1,4,6",,6,3,4,3,4,5,4,4,1,2,2,3,2,2,4,4,4,2,3,4,4,4,3,6.99,3,4,3,3,2,4,1,with higher protein
+2281,R057,100,151,1,1,2,2,3,,"1,2,6",,1,3,4,4,5,4,4,5,1,2,2,3,3,2,3,3,4,3,3,3,3,4,3,5,3,3,3,,2,3,2,with low or zero added sugar
+3601,R058,100,140,1,1,1,2,2,,"3,6",,5,4,5,4,5,3,3,3,1,2,2,3,4,2,3,3,4,3,4,4,3,3,4,5,3,4,3,2,2,3,3,with higher protein and low or zero added sugar
+9434,R059,100,140,1,1,1,1,1,,"2,4,5",,6,4,5,5,4,4,5,5,1,1,1,4,4,1,1,4,4,1,4,5,4,4,4,3.99,4,4,1,3,2,6,1,with higher protein
+5614,R060,100,167,1,1,2,3,2,,"3,6",,2,4,3,4,3,5,4,3,1,3,2,3,4,2,1,3,4,2,4,5,2,3,4,3.99,3,4,3,4,3,3,3,with higher protein and low or zero added sugar
+7401,R061,100,100,1,1,1,2,2,,"4,5",,2,4,3,4,5,2,3,4,1,2,2,2,3,2,1,2,4,3,5,5,4,4,2,4.99,4,4,2,4,2,3,3,with higher protein and low or zero added sugar
+3199,R062,100,167,1,1,2,2,2,,"1,4,6",,1,2,3,4,5,4,3,2,1,1,2,4,4,2,3,3,4,2,4,4,4,4,4,7.99,4,4,3,5,2,4,2,with low or zero added sugar
+1680,R063,100,149,1,1,1,2,1,,7,,7,4,3,4,3,4,3,4,1,2,2,3,3,3,,3,4,3,4,4,4,4,4,5.6,4,4,3,4,2,5,3,with higher protein and low or zero added sugar
+4860,R064,100,144,1,1,1,2,1,,"2,4,6",,6,3,4,5,4,5,5,5,1,3,2,3,2,2,2,2,4,2,4,3,4,3,4,4.99,3,3,2,2,2,2,3,with higher protein and low or zero added sugar
+2647,R065,100,135,1,1,1,1,1,,"1,2,3,4,5,6,7",,2,4,5,5,3,4,5,4,1,2,2,4,4,2,4,3,4,3,5,4,5,5,4,5.99,4,4,2,5,2,6,2,with low or zero added sugar
+7444,R066,100,204,1,1,1,1,4,,"2,4,7",,2,5,5,5,4,5,5,5,1,1,3,5,5,1,3,5,4,3,5,5,5,4,4,9,5,5,3,3,3,5,1,with higher protein
+2928,R067,100,219,1,1,2,3,1,,"1,2,4",,3,4,3,3,4,3,3,4,1,1,2,3,4,2,3,3,4,1,4,4,4,4,4,3.99,3,4,3,3,2,4,1,with higher protein
+9253,R068,100,88,1,1,1,2,2,,"1,5",,5,3,2,2,3,2,2,3,1,2,2,3,3,2,2,2,4,2,2,3,3,2,2,5,2,3,2,2,2,3,2,with low or zero added sugar
+3209,R069,100,179,1,1,2,3,3,,"1,2,6",,3,4,5,4,4,3,4,4,1,2,3,4,3,2,4,3,4,3,4,4,3,4,4,8.99,4,4,3,5,3,4,3,with higher protein and low or zero added sugar
+7980,R070,100,122,1,1,2,2,3,,2,,3,3,3,2,3,2,4,1,1,3,3,3,1,2,2,3,4,3,3,3,3,3,4,4,2,3,3,3,2,2,3,with higher protein and low or zero added sugar
+7772,R071,100,344,1,1,1,1,1,,"2,6,7",,6,5,3,4,2,3,4,4,1,3,3,4,4,2,5,4,4,1,4,5,4,3,2,6,4,4,3,3,3,6,1,with higher protein
+1183,R072,100,159,1,1,2,2,2,,"2,3,4",,3,3,4,4,3,4,4,3,1,1,2,3,2,2,3,3,4,2,4,4,4,4,4,6,3,4,2,3,3,5,2,with low or zero added sugar
+1065,R073,100,164,1,1,1,1,1,,"2,3,6",,6,5,5,4,4,5,4,4,1,1,2,2,3,3,,3,4,1,5,3,3,3,2,3.99,3,3,3,2,2,3,2,with low or zero added sugar
+9878,R074,100,138,1,1,2,2,1,,"5,6",,1,4,5,4,4,4,5,4,1,1,2,4,4,1,2,3,4,1,4,3,3,4,3,5.99,4,4,3,5,3,4,1,with higher protein
+3024,R075,100,123,1,1,1,2,2,,"1,4,6",,6,2,3,4,3,2,3,4,1,2,2,3,2,2,3,3,4,2,3,3,3,4,4,8,3,3,3,3,4,4,3,with higher protein and low or zero added sugar
+6547,R076,100,135,1,1,1,3,1,,2,,2,4,5,4,4,5,4,4,1,2,1,4,4,1,2,3,4,3,4,4,4,2,1,5,4,4,3,3,3,4,1,with higher protein
+8333,R077,100,133,1,1,1,2,1,,"2,3,5",,6,3,4,4,4,4,5,5,1,2,2,3,3,2,2,3,4,1,3,3,3,3,3,8.99,3,3,2,2,3,3,1,with higher protein
+2659,R078,100,153,1,1,2,1,1,,"1,2,4,6",,6,3,4,4,5,4,4,4,1,1,2,3,4,2,3,4,4,1,5,4,4,4,4,7.99,5,4,4,4,3,3,3,with higher protein and low or zero added sugar
+3930,R079,100,118,1,1,1,2,4,,"3,5,6",,6,4,3,4,4,3,4,4,1,3,1,4,4,1,4,4,4,3,4,4,4,4,4,8.55,4,4,3,1,2,2,3,with higher protein and low or zero added sugar
+6426,R080,100,120,1,1,2,3,2,,5,,2,4,5,4,2,4,3,4,1,3,2,2,3,2,2,3,4,3,3,3,4,3,3,4,3,3,4,2,2,3,2,with low or zero added sugar
+2575,R081,100,125,1,1,1,2,1,,"1,2,4,6,7",,1,4,4,4,4,4,4,4,1,2,2,3,3,2,2,3,4,2,3,3,3,3,3,7.99,4,3,3,5,2,6,2,with low or zero added sugar
+3639,R082,100,142,1,1,1,2,2,,3,,5,1,3,2,3,2,4,2,1,3,2,3,3,1,3,2,4,2,3,4,4,1,2,7.99,2,3,2,3,2,3,3,with higher protein and low or zero added sugar
+2890,R083,100,120,1,1,1,1,1,,"1,3,4",,7,5,5,5,5,5,5,5,1,1,1,5,5,1,1,5,4,1,5,5,5,5,5,7.99,5,5,1,3,2,4,2,with low or zero added sugar
+4715,R084,100,144,1,1,1,1,1,,"2,3",,3,4,5,5,4,4,5,5,1,1,1,4,4,1,1,4,4,1,5,4,4,4,4,10,4,4,1,3,2,6,2,with low or zero added sugar
+5631,R085,100,156,1,1,1,1,1,,"1,2,3,5",,3,4,4,5,5,4,4,3,1,1,3,4,4,2,2,4,4,1,4,4,3,4,4,10,4,4,3,3,3,4,3,with higher protein and low or zero added sugar
+9957,R086,100,187,1,1,2,2,1,,7,,7,4,3,4,3,4,3,4,1,3,2,3,3,2,3,3,4,1,3,4,3,4,3,4.99,3,3,3,3,3,5,1,with higher protein
+5835,R087,100,213,1,1,2,1,1,,"1,3,4",,4,3,4,4,4,5,4,4,1,3,2,4,4,2,3,4,4,3,4,4,3,4,5,8.99,4,4,3,4,2,4,3,with higher protein and low or zero added sugar
+6091,R088,100,123,1,1,2,2,2,,"5,6",,1,3,4,4,3,3,4,4,1,2,2,3,3,2,2,3,4,2,4,4,4,4,4,6,3,4,3,3,3,5,1,with higher protein
+2772,R089,100,193,1,1,2,2,1,,"2,4,6",,4,5,4,3,4,5,4,5,1,2,3,3,4,2,3,5,4,3,5,4,3,4,3,4.99,4,4,3,5,2,3,2,with low or zero added sugar
+1610,R090,100,195,1,1,2,1,3,,"2,3,4",,4,5,4,5,3,4,5,4,1,2,2,4,4,2,3,4,4,3,4,4,4,2,2,5.55,4,3,3,3,4,1,1,with higher protein
+5966,R091,100,227,1,1,1,1,4,,"1,2,4",,1,5,5,4,5,4,5,5,1,2,1,4,4,2,1,5,4,3,4,4,4,4,4,8.99,5,5,3,5,5,2,2,with low or zero added sugar
+1224,R092,100,162,1,1,2,2,3,,3,,4,3,4,3,4,3,4,4,1,1,2,2,3,2,4,3,4,2,3,4,4,4,4,5.09,3,4,2,4,2,2,1,with higher protein
+9102,R093,100,148,1,1,1,1,1,,"2,3,6",,5,4,5,4,4,4,4,5,1,3,2,4,3,2,3,4,4,1,4,3,4,4,4,5.99,4,4,3,5,3,4,1,with higher protein
+8863,R094,100,295,1,1,2,3,2,,"2,3,6",,4,3,3,3,3,3,3,3,1,2,2,3,3,2,4,2,4,2,3,3,3,3,3,7.99,3,3,3,3,2,6,3,with higher protein and low or zero added sugar
+2318,R095,100,127,1,1,1,1,1,,"3,5",,3,4,5,5,4,4,5,5,1,1,1,4,4,1,1,4,4,1,5,4,4,4,4,10,4,4,1,3,3,6,3,with higher protein and low or zero added sugar
+1920,R096,100,96,1,1,1,2,2,,"2,3,6",,6,3,4,4,5,4,4,4,1,2,2,2,3,2,3,2,4,2,3,3,3,4,4,8,3,3,2,3,4,3,1,with higher protein
+1255,R097,100,131,1,1,2,2,1,,5,,5,4,3,4,3,4,3,4,1,3,3,3,3,2,3,3,4,1,4,3,3,2,2,7.99,3,3,2,3,2,5,2,with low or zero added sugar
+5789,R098,100,128,1,1,2,1,2,,"1,2,6",,6,4,4,3,5,3,5,4,1,1,3,4,4,1,1,3,4,2,2,3,4,4,4,10,4,4,3,3,3,4,1,with higher protein
+9882,R099,100,115,1,1,2,2,3,,"1,2,4",,5,3,3,3,3,3,3,3,1,2,3,3,3,2,3,3,4,2,3,4,4,4,4,4.99,4,3,3,3,2,5,3,with higher protein and low or zero added sugar
+8817,R100,100,105,1,1,1,1,1,,"2,3,5",,2,5,5,4,4,4,5,4,1,1,3,3,3,2,2,1,4,1,5,3,3,3,3,3.99,4,3,2,2,2,3,2,with low or zero added sugar
+7688,R101,100,148,1,1,2,1,4,,"1,2,3,4,5,6",,2,4,4,4,4,4,4,4,1,2,2,4,2,2,4,2,4,3,4,4,4,4,4,3,4,4,3,5,3,2,3,with higher protein and low or zero added sugar
+9217,R102,100,246,1,1,1,1,1,,"2,4,6",,2,4,4,5,4,5,4,3,1,1,2,5,4,2,5,5,4,1,5,3,4,4,4,7,5,4,3,2,2,6,3,with higher protein and low or zero added sugar
+3644,R103,100,179,1,1,1,1,1,,1,,2,5,5,5,5,5,5,5,1,1,1,5,5,1,1,5,4,1,5,5,5,5,5,7.99,5,5,1,2,2,3,3,with higher protein and low or zero added sugar
+2896,R104,100,148,1,1,2,2,1,,"4,5,6",,7,3,4,4,4,4,4,5,1,2,2,4,2,2,4,3,4,3,3,3,3,3,3,9.99,3,3,2,2,2,3,3,with higher protein and low or zero added sugar
+2348,R105,100,178,1,1,1,1,1,,2,,1,5,5,5,4,4,5,5,1,1,1,5,5,2,2,2,4,1,5,5,5,5,5,8.99,4,5,3,3,2,2,1,with higher protein
+3935,R106,100,216,1,1,1,1,1,,"2,6",,2,5,5,4,5,5,5,5,1,2,3,5,5,2,1,4,4,1,4,4,4,4,4,8.99,4,5,1,2,2,5,3,with higher protein and low or zero added sugar
+1182,R107,100,208,1,1,1,1,4,,"3,4",,4,4,5,4,5,4,5,4,1,1,1,4,4,2,1,3,4,3,4,4,3,4,4,3.29,4,4,3,1,3,5,3,with higher protein and low or zero added sugar
+2928,R108,100,193,1,1,2,2,3,,"1,2,3,4,5,6,7,8",,2,3,3,3,3,3,3,3,1,3,3,3,3,3,,4,4,3,3,3,3,3,3,9,3,3,3,4,4,3,3,with higher protein and low or zero added sugar
+2845,R109,100,198,1,1,1,1,4,,"1,2,4",,2,4,3,5,5,5,5,5,1,1,2,3,4,1,3,4,4,3,5,4,4,4,3,4.99,4,4,1,2,2,4,2,with low or zero added sugar
+6919,R110,100,162,1,1,2,3,3,,"4,5,6",,3,3,4,4,4,4,4,3,1,2,2,3,3,2,3,2,4,2,4,4,4,4,4,6.55,3,4,2,4,3,5,2,with low or zero added sugar
+3963,R111,100,356,1,1,1,1,3,,"1,2,3,4,6,7",,4,4,4,3,4,5,3,4,1,1,3,4,4,2,3,4,4,2,5,5,4,4,3,4.99,4,4,3,5,3,6,2,with low or zero added sugar
+9994,R112,100,93,1,1,1,1,1,,"2,4",,4,4,5,5,5,4,4,5,1,1,1,4,4,1,1,4,4,1,5,4,4,4,4,7.99,4,4,1,3,3,6,3,with higher protein and low or zero added sugar
+7581,R113,100,132,1,1,2,2,3,,"1,3,5",,5,3,4,4,4,4,4,3,1,2,3,2,3,2,3,3,4,2,4,4,4,4,4,6,4,4,2,4,3,5,2,with low or zero added sugar
+6676,R114,100,114,1,1,1,1,2,,"1,2,5,6",,1,4,4,5,5,5,4,3,1,1,3,4,4,1,1,4,4,2,3,3,4,4,4,7.99,4,4,3,3,3,4,1,with higher protein
+5327,R115,100,132,1,1,2,2,1,,2,,2,4,3,4,3,4,3,4,1,3,3,3,3,2,3,3,4,1,4,3,4,2,2,7.99,3,3,3,3,2,4,1,with higher protein
+2913,R116,100,125,1,1,1,1,2,,1,,1,2,3,4,4,2,3,3,1,1,1,4,4,1,1,2,4,3,4,1,1,1,1,3,4,4,3,3,3,3,2,with low or zero added sugar
+9799,R117,100,136,1,1,1,1,2,,"1,3,6",,3,4,3,4,3,4,3,3,1,1,3,3,4,2,3,4,4,2,4,4,4,4,4,6.99,4,4,3,2,2,4,2,with low or zero added sugar
+2205,R118,100,159,1,1,1,1,1,,"1,2",,1,4,4,4,3,4,4,3,1,1,1,4,4,3,,5,4,3,5,4,5,4,4,10,4,4,3,2,2,2,2,with low or zero added sugar
+2686,R119,100,119,1,1,2,1,1,,"2,3,6",,4,4,3,3,4,3,4,3,1,3,2,4,5,2,4,2,4,1,4,4,3,5,4,8.99,4,4,3,3,2,3,1,with higher protein
+7503,R120,100,204,1,1,2,2,3,,"2,3,5,6",,5,3,3,3,3,3,3,3,1,2,2,3,3,2,3,3,4,2,3,3,3,3,3,8.99,3,3,2,3,2,6,3,with higher protein and low or zero added sugar
+6497,R121,100,183,1,1,1,2,3,,"1,7",,4,4,3,5,2,4,3,5,1,1,1,3,2,3,,2,4,2,3,3,3,4,3,6.99,2,3,1,3,2,3,2,with low or zero added sugar
+9690,R122,100,104,1,1,1,2,3,,"2,5,6",,4,3,3,4,4,4,4,4,1,3,3,3,3,2,3,2,4,2,4,4,4,4,4,6,4,4,2,4,3,5,2,with low or zero added sugar
+3124,R123,100,281,1,1,1,2,1,,"2,6",,6,4,4,4,4,4,4,3,1,3,4,3,4,2,3,4,4,1,5,4,4,4,3,9.99,4,4,3,3,2,3,3,with higher protein and low or zero added sugar
+6445,R124,100,123,1,1,1,1,1,,"1,4,6",,5,3,4,4,4,4,4,4,1,2,2,4,4,1,1,4,4,3,4,4,4,4,4,7.56,3,4,3,1,2,3,2,with low or zero added sugar
+2406,R125,100,849,1,1,1,2,3,,"1,2,3,4,5,6,7,8",,1,5,3,4,3,4,5,4,1,2,2,3,4,3,,2,4,3,4,5,4,4,3,5.02,4,5,3,4,4,3,3,with higher protein and low or zero added sugar
+3620,R126,100,136,1,1,1,1,3,,"2,3,4,6,7",,4,4,5,4,5,5,4,4,1,1,3,4,4,2,5,4,4,2,5,4,4,4,4,6.99,4,4,3,5,3,5,1,with higher protein
+5406,R127,100,155,1,1,1,2,2,,"1,2,4",,1,4,3,4,3,4,3,4,1,2,2,2,3,2,3,2,4,2,4,4,3,3,3,5.55,4,3,2,4,3,4,2,with low or zero added sugar
+6364,R128,100,110,1,1,2,2,2,,5,,5,3,3,5,4,4,3,4,1,3,2,2,2,2,4,3,4,2,3,3,4,4,4,3.99,3,4,3,3,2,4,2,with low or zero added sugar
+2618,R129,100,248,1,1,1,1,3,,"2,4,6,8",,5,4,3,4,4,4,4,4,1,1,1,4,4,2,1,4,4,1,4,4,3,3,2,8.99,4,4,3,3,2,2,2,with low or zero added sugar
+4710,R130,100,130,1,1,2,2,2,,"1,2,3",,5,3,2,4,5,4,3,2,1,1,2,4,5,2,3,3,4,2,5,4,4,4,5,7.99,4,4,3,5,2,4,2,with low or zero added sugar
+2468,R131,100,142,1,1,1,1,1,,"2,3,6",,5,5,3,2,3,2,3,3,1,3,2,3,2,3,,3,4,3,3,3,4,3,3,5,3,3,3,3,3,4,2,with low or zero added sugar
+5160,R132,100,120,1,1,1,2,1,,"1,2,6",,6,4,5,5,4,5,4,5,1,1,1,4,3,1,1,2,4,1,4,4,4,4,4,2.99,4,4,3,2,3,6,2,with low or zero added sugar
+5491,R133,100,132,1,1,1,2,1,,"3,4,6",,3,4,3,4,5,4,4,5,1,2,1,1,4,2,4,4,4,2,4,4,4,4,4,6.99,4,4,3,2,2,3,2,with low or zero added sugar
+3565,R134,100,246,1,1,2,2,1,,"5,6",,6,5,4,5,3,3,5,3,1,3,3,3,4,2,3,3,4,1,3,2,3,4,2,6,4,5,3,3,3,4,1,with higher protein
+4091,R135,100,130,1,1,1,1,3,,"1,2,3,4,5",,4,4,5,4,3,4,5,4,1,1,3,4,4,2,4,4,4,2,5,4,4,4,4,6.99,4,4,3,5,3,5,2,with low or zero added sugar
+8442,R136,100,82,1,1,2,1,2,,"1,3,5,6",,6,5,3,2,2,3,4,2,1,3,3,3,3,3,,3,4,3,3,3,3,2,2,5,3,4,3,3,3,2,3,with higher protein and low or zero added sugar
+9916,R137,100,90,1,1,1,2,2,,"1,5,6",,6,2,5,3,4,4,4,4,1,2,2,2,3,2,3,2,4,2,3,4,4,3,3,8,3,3,2,3,4,3,3,with higher protein and low or zero added sugar
+6452,R138,100,108,1,1,2,2,2,,"3,5,6",,1,3,2,3,4,5,4,3,1,1,2,4,5,3,,4,4,2,4,5,4,4,5,6.77,4,4,2,1,2,4,1,with higher protein
+1841,R139,100,107,1,1,1,1,1,,"2,6",,2,4,5,5,5,5,4,5,1,1,1,4,3,1,1,4,4,1,3,4,4,4,4,3.99,4,4,3,2,3,6,2,with low or zero added sugar
+8960,R140,100,131,1,1,1,2,2,,"2,4,5",,4,3,4,5,5,2,4,4,1,2,1,3,4,2,1,4,4,3,4,4,5,4,4,6,4,4,3,3,2,2,2,with low or zero added sugar
+3467,R141,100,198,1,1,1,1,1,,4,,6,3,4,5,4,4,4,4,1,1,2,3,2,1,3,2,4,1,3,4,2,3,4,5,4,3,2,2,2,4,2,with low or zero added sugar
+5627,R142,100,134,1,1,1,1,1,,"1,5",,1,4,5,5,4,5,5,4,1,1,1,4,4,1,1,4,4,1,5,4,4,4,4,7.99,4,4,1,3,3,6,1,with higher protein
+7510,R143,100,143,1,1,2,2,3,,"1,2,6",,4,3,4,4,4,3,3,4,1,3,2,3,3,2,2,3,4,3,4,4,4,4,4,6,4,4,3,4,3,5,2,with low or zero added sugar
+8167,R144,100,218,1,1,1,1,3,,"1,2,3,5",,5,4,5,4,5,5,4,3,1,1,1,4,4,2,1,4,4,1,4,5,4,4,4,8.99,4,4,1,3,3,5,2,with low or zero added sugar
+3929,R146,100,324,1,1,2,2,3,,"1,2,3,4,5,6,7,8",,8,4,4,5,4,4,5,5,1,2,3,5,5,3,,3,4,3,4,5,5,4,4,7.61,4,5,3,4,5,5,1,with higher protein
+7918,R147,100,332,1,1,2,4,4,,"1,2,3,4,5,6,7,8",,3,5,4,3,4,3,3,4,1,2,3,3,4,2,5,3,4,2,5,4,5,4,5,8.5,4,5,3,4,4,6,3,with higher protein and low or zero added sugar
+6494,R152,100,99,1,1,1,1,1,,"2,3",,3,5,5,5,5,4,4,4,1,1,1,4,4,1,2,5,4,1,5,5,4,4,3,10,4,4,3,3,3,2,1,with higher protein
+3883,R154,100,193,1,1,1,2,1,,"2,3,4,6",,6,5,4,5,4,4,5,3,1,2,1,4,3,2,3,4,4,1,4,3,4,4,3,6.99,4,4,1,3,3,3,1,with higher protein
+2535,R155,100,208,1,1,1,1,1,,"1,4,5,6,8",,6,5,4,5,3,5,5,5,1,1,2,4,4,2,4,4,4,2,5,4,4,5,4,8,4,4,3,4,3,4,3,with higher protein and low or zero added sugar
+1364,R156,100,162,1,1,1,1,1,,"5,7",,4,5,4,5,5,4,4,5,1,1,1,4,4,1,1,4,4,1,4,4,4,4,4,3.99,4,4,1,3,2,6,3,with higher protein and low or zero added sugar
+3820,R157,100,98,1,1,1,1,1,,2,,2,5,5,5,5,5,4,5,1,2,2,4,4,2,2,4,4,1,5,4,4,4,3,9,4,5,3,3,3,2,1,with higher protein
+8177,R158,100,298,1,1,2,4,3,,"1,2,3,4,5,6,7,8",,1,4,4,3,3,3,4,5,1,2,3,5,4,2,5,4,4,3,5,4,4,4,4,5.6,5,4,2,4,5,6,1,with higher protein
+4931,R159,100,134,1,1,1,1,1,,"4,7",,4,5,5,4,4,4,4,5,1,2,1,2,1,1,1,2,4,1,4,4,1,4,4,7.99,4,4,1,3,2,6,3,with higher protein and low or zero added sugar
+2988,R160,100,136,1,1,1,2,1,,"1,4,6",,1,4,3,5,5,4,5,4,1,1,2,4,4,2,2,4,4,1,4,4,4,4,4,5.99,4,4,3,4,3,4,1,with higher protein
+2578,R161,100,298,1,1,1,3,3,,"1,2,3,4,5,6,7,8",,4,5,4,4,4,5,3,4,1,2,3,3,4,2,5,3,4,2,5,4,5,5,5,5.81,4,5,2,5,5,5,2,with low or zero added sugar
+8096,R162,100,307,1,1,1,4,3,,"1,2,3,4,5,6,7,8",,2,3,3,5,5,3,3,4,1,2,3,4,4,2,5,5,4,3,5,4,5,4,4,9.56,5,5,3,4,5,5,2,with low or zero added sugar
+3745,R165,100,126,1,1,1,2,1,,"1,2",,1,4,4,4,3,3,3,3,1,3,4,3,3,2,1,3,4,2,5,4,4,3,3,9.99,4,4,3,3,2,4,1,with higher protein
+5711,R166,100,298,1,1,1,2,4,,"1,2,3,4,5,6,7,8",,1,4,5,5,4,5,5,5,1,2,2,4,4,2,5,4,4,2,4,5,4,5,4,5.18,5,5,3,5,4,6,3,with higher protein and low or zero added sugar
+7388,R167,100,307,1,1,1,4,4,,"1,2,3,4,5,6,7,8",,1,3,5,5,4,5,4,3,1,2,2,5,4,2,5,4,4,2,5,4,5,5,5,7.36,4,4,2,5,4,5,2,with low or zero added sugar
+1302,R168,100,307,1,1,2,3,4,,"1,2,3,4,5,6,7,8",,4,5,3,5,4,4,3,3,1,2,3,3,4,2,5,4,4,2,5,4,4,5,5,5.72,4,4,2,5,5,6,1,with higher protein
+9615,R171,100,126,1,1,1,2,1,,1,,1,4,5,5,5,4,5,4,1,2,1,4,3,1,3,4,4,1,4,4,3,3,3,4.99,4,4,1,3,5,2,2,with low or zero added sugar
+2802,R172,100,289,1,1,1,4,3,,"1,2,3,4,5,6,7,8",,6,4,3,4,4,3,5,4,1,2,2,3,4,3,,3,4,2,4,5,4,5,5,9.86,5,5,3,4,4,6,3,with higher protein and low or zero added sugar
+5096,R173,100,162,1,1,2,1,2,,1,,4,5,4,4,5,4,4,5,1,4,1,2,3,1,5,2,4,1,4,3,4,4,4,8.3,3,4,3,2,3,4,1,with higher protein
+4718,R174,100,116,1,1,1,1,1,,"6,7",,6,4,2,5,5,3,4,3,1,2,2,3,4,2,4,3,4,1,5,4,5,4,5,10,3,4,3,3,2,4,3,with higher protein and low or zero added sugar
+1834,R175,100,107,1,1,1,4,1,,1,,1,1,2,2,2,3,5,3,1,1,1,4,4,2,2,4,4,2,4,1,1,1,1,3,4,4,3,2,3,4,2,with low or zero added sugar
+5386,R177,100,253,1,1,2,2,2,,"2,3,4",,3,3,4,2,3,2,3,3,1,2,2,3,3,2,3,3,4,2,4,4,4,3,4,8,3,3,2,3,4,4,2,with low or zero added sugar
+2366,R178,100,169,1,1,2,2,2,,"3,5",,5,3,4,3,4,3,4,3,1,2,2,2,3,2,2,3,4,2,4,3,4,4,3,5.55,3,3,3,3,3,4,2,with low or zero added sugar
+4385,R179,100,146,1,1,1,1,1,,"1,4,5",,4,5,4,5,4,5,4,5,1,1,1,5,4,1,3,5,4,1,5,5,4,4,5,5.56,5,5,1,3,2,4,1,with higher protein
+6968,R180,100,106,1,1,1,2,2,,3,,4,5,4,4,3,4,5,4,1,2,2,2,3,2,3,2,4,2,3,4,2,3,2,6,3,3,3,3,4,4,2,with low or zero added sugar
+8259,R181,100,130,1,1,1,2,1,,"3,4",,7,5,4,5,4,5,4,5,1,2,1,3,1,2,2,2,4,3,4,4,4,4,4,7.99,2,3,4,3,2,6,3,with higher protein and low or zero added sugar
+6150,R182,100,289,1,1,1,2,4,,"1,2,3,4,5,6,7,8",,6,3,5,3,5,4,3,3,1,2,3,4,4,3,,4,4,3,4,4,4,5,5,6.38,4,5,3,4,4,6,3,with higher protein and low or zero added sugar
+3132,R183,100,113,1,1,2,2,3,,"4,5,7",,3,3,4,4,4,4,5,4,1,2,3,3,3,2,4,4,4,2,4,4,4,4,4,6,3,4,3,4,3,5,3,with higher protein and low or zero added sugar
+4919,R184,100,119,1,1,1,1,2,,"1,3,8",,6,5,4,5,4,5,4,5,1,2,1,2,3,3,,4,4,1,3,4,4,3,4,7.99,3,4,3,2,2,6,1,with higher protein
+5056,R185,100,120,1,1,1,2,3,,4,,2,5,4,4,5,4,4,5,1,3,2,1,3,2,2,3,4,2,4,4,4,4,4,2,3,4,3,3,3,3,2,with low or zero added sugar
+8972,R186,100,139,1,1,1,2,2,,1,,1,2,3,4,5,3,4,4,1,2,1,4,3,2,4,4,4,1,1,1,1,1,1,2,4,4,3,3,3,5,3,with higher protein and low or zero added sugar
+1630,R187,100,298,1,1,1,3,4,,"1,2,3,4,5,6,7,8",,7,4,3,4,5,5,3,5,1,2,2,5,4,2,5,5,4,2,5,5,4,4,4,5.06,5,4,3,5,5,5,1,with higher protein
+5325,R189,100,192,1,1,1,1,1,,6,,4,4,3,5,4,5,4,5,1,1,2,1,2,2,2,4,4,1,4,4,5,3,4,5,3,4,3,3,2,5,1,with higher protein
+1860,R190,100,91,1,1,2,2,3,,"1,6",,2,3,5,4,4,4,4,4,1,2,2,2,3,2,3,3,4,2,3,3,4,4,3,8,3,3,3,3,4,3,1,with higher protein
+1499,R191,100,86,1,1,2,2,3,,"1,2,6",,1,4,4,5,5,5,4,4,1,3,3,4,4,3,,3,4,3,4,4,4,4,4,6,4,4,3,3,3,5,1,with higher protein
+2636,R192,100,207,1,1,1,2,2,,"3,4,5",,2,3,4,3,4,3,4,3,1,2,2,3,2,2,3,2,4,2,3,3,3,4,4,3.99,3,4,2,3,3,3,1,with higher protein
+6625,R193,100,109,1,1,2,3,2,,2,,2,5,4,4,5,4,5,4,1,2,2,2,3,3,,2,4,2,3,3,2,3,3,6,4,4,3,,1,2,2,with low or zero added sugar
+2964,R194,100,133,1,1,2,2,2,,"2,4,6",,2,3,3,5,4,3,2,4,1,2,2,3,3,2,3,3,4,2,4,4,4,4,3,8,3,3,2,4,4,4,1,with higher protein
+2555,R195,100,6050,1,1,1,1,1,,"2,4,6",,2,5,4,5,3,5,4,3,1,1,2,4,4,2,3,5,4,1,3,5,4,4,3,7,4,4,2,3,2,5,1,with higher protein
+4943,R196,100,337524,1,1,1,3,1,,"7,9",My mochi,7,4,5,3,1,1,1,1,1,4,3,2,2,2,3,3,4,1,4,4,2,3,1,7.5,2,1,4,5,2,3,1,with higher protein
