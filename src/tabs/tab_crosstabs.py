@@ -43,7 +43,7 @@ def _apply_labels(series: pd.Series, col: str) -> pd.Series:
     return series.astype(str)
 
 
-def render(df: pd.DataFrame) -> None:
+def render(df: pd.DataFrame, question_text: dict = None) -> None:
     """Render the Crosstabs Tool tab."""
     st.header("Crosstabs Tool")
 

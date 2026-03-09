@@ -30,11 +30,17 @@ def _build_regression_data(
         df: DataFrame with survey data
         dv_col: Dependent variable column name
         iv_cols: List of IV column names (excluding ClaimCell)
-        reference_cell: ClaimCell code to use as reference category (1, 2, or 3)
+        reference_cell: ClaimCell code to use as reference category (1, 2, or 3).
+            Pass None to omit ClaimCell dummies entirely.
 
     Returns:
-        DataFrame with DV + IVs + ClaimCell dummies, dropna applied
+        Tuple of (DataFrame with DV + IVs + ClaimCell dummies with dropna applied,
+        list of dummy column names). The list is empty when reference_cell is None.
     """
+    if reference_cell is None:
+        data = df[[dv_col] + iv_cols].dropna().copy()
+        return data, []
+
     dummy_names = {
         1: {2: "ClaimCell_HighProtein", 3: "ClaimCell_Both"},
         2: {1: "ClaimCell_LowSugar", 3: "ClaimCell_Both"},

@@ -20,7 +20,7 @@ CONCEPT_SHORT = {
 }
 
 
-def render(df: pd.DataFrame) -> None:
+def render(df: pd.DataFrame, question_text: dict = None) -> None:
     """Render the Price Sensitivity tab."""
     st.header("Price Sensitivity")
 
