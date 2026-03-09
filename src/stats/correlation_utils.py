@@ -43,7 +43,7 @@ def run_correlation(
         for j in range(n):
             if i == j:
                 corr_vals[i, j] = 1.0
-                p_vals[i, j] = 0.0
+                p_vals[i, j] = np.nan
             else:
                 r, p = stats.pearsonr(data.iloc[:, i], data.iloc[:, j])
                 corr_vals[i, j] = r

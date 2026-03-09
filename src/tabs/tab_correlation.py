@@ -19,6 +19,9 @@ ATTR_DISPLAY = [ATTR_IMPORTANCE[i] for i in range(1, 8)]
 
 
 def _sig_stars(p: float) -> str:
+    import math
+    if p is None or (isinstance(p, float) and math.isnan(p)):
+        return ""
     if p < 0.001:
         return "***"
     elif p < 0.01:
@@ -92,10 +95,14 @@ def render(df: pd.DataFrame) -> None:
     st.subheader("📊 Stat-Check: P-Value Matrix")
     with st.expander("Show p-value matrix (expand)"):
         # Format p-values with stars
-        pval_styled = pval_display.copy().astype(str)
+        import math
+        pval_styled = pval_display.copy().astype(object)
         for i in range(n):
             for j in range(n):
                 p = pval_display.iloc[i, j]
-                pval_styled.iloc[i, j] = f"{p:.4f} {_sig_stars(p)}"
+                if isinstance(p, float) and math.isnan(p):
+                    pval_styled.iloc[i, j] = "—"
+                else:
+                    pval_styled.iloc[i, j] = f"{p:.4f} {_sig_stars(p)}"
         st.dataframe(pval_styled, use_container_width=True)
         st.caption("* p<.05  ** p<.01  *** p<.001")

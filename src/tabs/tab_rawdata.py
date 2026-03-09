@@ -64,6 +64,7 @@ VALUE_LABEL_MAPS = {
     "Q21_DietFocus": DIET_FOCUS,
     "Q22_HouseholdType": HOUSEHOLD_TYPE,
     "Q23_Age": AGE,
+    "Q24_Income": INCOME,
 }
 
 

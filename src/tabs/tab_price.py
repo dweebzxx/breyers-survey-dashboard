@@ -77,7 +77,7 @@ def render(df: pd.DataFrame) -> None:
         xaxis_title="Price Point",
         yaxis_title="Mean Likelihood (1–5)",
     )
-    fig.update_traces(mode="lines+markers+text", textposition="top center")
+    fig.update_traces(mode="lines+markers")
     st.plotly_chart(fig, use_container_width=True)
     st.caption(SCALE_FOOTNOTES.get("Q17_Price", "Scale: 1 = Very unlikely, 5 = Very likely"))
     st.caption("Q17a–Q17e: How likely would you be to purchase at each price point?")
