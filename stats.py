@@ -5,8 +5,6 @@ import pandas as pd
 from scipy import stats
 from scipy.stats import pearsonr
 import statsmodels.api as sm
-from sklearn.linear_model import LogisticRegression
-from sklearn.preprocessing import StandardScaler
 
 
 def chi_square_test(df: pd.DataFrame, var1: str, var2: str) -> dict:

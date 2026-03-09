@@ -7,7 +7,6 @@ import plotly.graph_objects as go
 import dash
 import dash_bootstrap_components as dbc
 from dash import Input, Output, State, callback, dash_table, dcc, html
-
 from scipy.stats import pearsonr
 
 from data import (
@@ -1034,7 +1033,8 @@ def update_rawdata(claim, age, income, diet, seeking, household, freq):
 
     # Build display columns: keep original survey + brand binary
     brand_cols = list(Q6_BRAND_COL_MAP.values())
-    display_cols = [c for c in DF_RAW.columns if c not in brand_cols + ["ClaimCell_Label"]]
+    exclude_cols = set(brand_cols) | {"ClaimCell_Label"}
+    display_cols = [c for c in DF_RAW.columns if c not in exclude_cols]
     display_df = dff[display_cols].copy()
 
     # Tooltip headers mapping col → question label

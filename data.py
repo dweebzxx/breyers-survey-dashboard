@@ -124,7 +124,7 @@ def load_data(filepath="breyers-survey-data-cleaned.csv") -> pd.DataFrame:
     df = pd.read_csv(filepath, skiprows=[1], dtype=str)
 
     # Normalise blanks / literal "nan" → NaN
-    df.replace({"": np.nan, "nan": np.nan, "NaN": np.nan}, inplace=True)
+    df = df.replace({"": np.nan, "nan": np.nan, "NaN": np.nan})
 
     # Parse numeric survey columns
     for col in NUMERIC_COLS:
