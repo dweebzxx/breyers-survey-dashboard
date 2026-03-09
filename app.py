@@ -37,7 +37,8 @@ LABEL_MAPS = get_label_maps()
 # ── Dash app ──────────────────────────────────────────────────────────────────
 app = dash.Dash(
     __name__,
-    external_stylesheets=[dbc.themes.FLATLY],
+    # Bootstrap CSS is served locally from assets/bootstrap.min.css
+    # to avoid dependency on CDN availability.
     suppress_callback_exceptions=True,
     title="Breyers Survey Dashboard",
 )
@@ -1089,7 +1090,7 @@ def update_rawdata(claim, age, income, diet, seeking, household, freq):
     ]
 
     tooltip_header = {
-        c: {"value": tooltip_map.get(c, c), "use_with": "header"}
+        c: {"value": tooltip_map.get(c, c), "type": "markdown"}
         for c in display_df.columns
     }
 
