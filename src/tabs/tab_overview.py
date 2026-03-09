@@ -9,7 +9,7 @@ import pandas as pd
 from src.label_mappings import CONCEPT_LABEL, PURCHASE_FREQ, SCALE_FOOTNOTES
 
 
-def render(df: pd.DataFrame) -> None:
+def render(df: pd.DataFrame, question_text: dict = None) -> None:
     """Render the Executive Overview tab."""
     st.header("Executive Overview")
 
@@ -90,3 +90,9 @@ def render(df: pd.DataFrame) -> None:
         st.caption("Q4: How often do you buy ice cream?")
     else:
         st.warning("Q4_PurchaseFreq column not found in data.")
+
+    # =================================================================
+    # ACKNOWLEDGMENTS FOOTER (Required by course AI policy)
+    # =================================================================
+    st.markdown("---")
+    st.caption("**Acknowledgments:** Dashboard architecture, data processing, and Streamlit code generation were assisted by an AI coding agent.")

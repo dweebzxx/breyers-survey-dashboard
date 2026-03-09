@@ -68,7 +68,7 @@ VALUE_LABEL_MAPS = {
 }
 
 
-def render(df: pd.DataFrame) -> None:
+def render(df: pd.DataFrame, question_text: dict = None) -> None:
     """Render the Raw Data Viewer tab."""
     st.header("Raw Data Viewer")
     st.markdown(f"Showing **{len(df)}** respondents (after filters applied).")

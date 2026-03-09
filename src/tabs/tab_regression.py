@@ -52,20 +52,29 @@ def _coeff_table(results: dict, label_map: dict, is_logit: bool = False) -> pd.D
     return pd.DataFrame(rows)
 
 
-def render(df: pd.DataFrame) -> None:
+def render(df: pd.DataFrame, question_text: dict = None) -> None:
     """Render the Driver Analysis tab."""
     st.header("Driver Analysis")
 
-    # ── Reference group selector ────────────────────────────────────────────
-    st.subheader("ClaimCell Reference Group")
-    ref_label_options = {v: k for k, v in CLAIM_CELL_LABELS.items()}
-    ref_choice = st.selectbox(
-        "Select reference group for ClaimCell dummy coding",
-        options=list(CLAIM_CELL_LABELS.values()),
-        index=0,
-        key="regression_ref_group",
-    )
-    reference_cell = ref_label_options[ref_choice]
+    # Check if ClaimCell has sufficient variance for dummy coding
+    include_claim_dummies = df['ClaimCell'].nunique() > 1
+
+    if not include_claim_dummies:
+        st.info("ℹ️ **Note:** Concept comparison variables (ClaimCell dummies) have been removed from the model because your current filters include only one Concept Cell. To compare concepts, please select multiple Concept Cells in the sidebar.")
+
+    # ── Reference group selector (only show if multiple concepts) ───────────
+    if include_claim_dummies:
+        st.subheader("ClaimCell Reference Group")
+        ref_label_options = {v: k for k, v in CLAIM_CELL_LABELS.items()}
+        ref_choice = st.selectbox(
+            "Select reference group for ClaimCell dummy coding",
+            options=list(CLAIM_CELL_LABELS.values()),
+            index=0,
+            key="regression_ref_group",
+        )
+        reference_cell = ref_label_options[ref_choice]
+    else:
+        reference_cell = None
 
     st.divider()
 

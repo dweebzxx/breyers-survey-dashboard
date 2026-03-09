@@ -80,7 +80,7 @@ def _stat_check_card(result: dict, group_a: str, group_b: str, metric_label: str
     )
 
 
-def render(df: pd.DataFrame) -> None:
+def render(df: pd.DataFrame, question_text: dict = None) -> None:
     """Render the Concept Performance tab."""
     st.header("Concept Performance")
 

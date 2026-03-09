@@ -31,7 +31,7 @@ def _sig_stars(p: float) -> str:
     return ""
 
 
-def render(df: pd.DataFrame) -> None:
+def render(df: pd.DataFrame, question_text: dict = None) -> None:
     """Render the Correlation Analysis tab."""
     st.header("Correlation Analysis")
     st.markdown("Pearson correlation coefficients for Q8 Attribute Importance ratings.")
